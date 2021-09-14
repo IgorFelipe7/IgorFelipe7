@@ -2,7 +2,7 @@
 
 <p align="left"> 
  Olá, meu nome é Igor Felipe, sou programador <strong>Back-end</strong> e <strong>Front-end</strong> <br>
- Atualmente estou estuudando a linguagem <i>Python</i>.
+ Atualmente estou estudando a linguagem <i><b>Python</b></i>.
 </p>
 
 <p align="left">
