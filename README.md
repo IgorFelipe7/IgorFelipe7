@@ -18,5 +18,5 @@
 </p>
 
 <p align="left">
-  ! Igor#1435
+ <b>! Igor#1435</b>
 </p>  
