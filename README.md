@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Lua, Javascript, Html, Css</strong>
+  🧑‍💻 Linguagens: <strong>Lua, Javascript, Html, Css</strong>
 </p>
 
 <p align="left">
@@ -18,5 +18,5 @@
 </p>
 
 <p align="left">
- <b>! Igor#1435</b>
+ <b>Igor Felipe#5039</b>
 </p>  
