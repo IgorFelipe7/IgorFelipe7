@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🧑‍💻 Linguagens: <strong>Lua, Javascript, Html, Css</strong>
+  🧑‍💻 Linguagens: <strong>Php, Lua, Javascript, Html, Css</strong>
 </p>
 
 <p align="left">
