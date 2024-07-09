@@ -2,11 +2,11 @@
 
 <p align="left"> 
  Olá, meu nome é Igor Felipe, sou programador <strong>Back-end</strong> e <strong>Front-end</strong> <br>
- Atualmente estou estudando a linguagem <i><b>Python</b></i>.
+ Atualmente estou estudando a linguagem <i><b>C++</b></i>.
 </p>
 
 <p align="left">
-  🧑‍💻 Linguagens: <strong>Php, Lua, Javascript, Html, Css</strong>
+  🧑‍💻 Linguagens: <strong>PHP, Lua, Python, Javascript, Html, Css</strong>
 </p>
 
 <p align="left">
@@ -18,5 +18,5 @@
 </p>
 
 <p align="left">
- <b>Igor Felipe#5039</b>
+ <b>ig0rf</b>
 </p>  
