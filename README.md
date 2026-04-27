@@ -1,71 +1,96 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
-</p>
-
 <div align="center">
-  Desenvolvedor de Software com foco em criar soluções eficientes e escaláveis. Minha paixão é transformar ideias em código limpo e funcional, utilizando as melhores práticas do mercado para entregar produtos de alta qualidade.
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://igorfdeveloper.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Acesse_meu_Portfólio_Completo-5865F2?style=for-the-badge&logo=rocket&logoColor=white" alt="Botão para acessar o portfólio">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&height=80&lines=Olá,+eu+sou+o+Igor+Felipe+👋;Software+Engineer;Full-Stack+%7C+Mobile;Transformando+ideias+em+código" alt="Typing SVG" />
   </a>
+
+  <p align="center">
+    <strong>Arquitetura de Software • Clean Code • Soluções Escaláveis</strong>
+  </p>
+
+  <div align="center">
+    <a href="https://igorfdeveloper.netlify.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfólio-0f172a?style=for-the-badge&logo=rocket&logoColor=00E5FF" alt="Portfólio">
+    </a>
+    <a href="https://www.linkedin.com/in/igorfdev" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn">
+    </a>
+    <a href="mailto:igorfdeveloper@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/E--mail-0f172a?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Gmail">
+    </a>
+  </div>
 </div>
+
+<br><br>
+
+## 👨‍💻 Sobre o meu trabalho
+
+Sou um Desenvolvedor de Software focado em construir aplicações robustas, desde a concepção do banco de dados até a interface final do usuário. Minha prioridade é escrever código limpo, testável e que entregue valor real para o negócio.
+
+- 🏗️ **Foco Atual:** Desenvolvimento Full-Stack moderno e criação de ecossistemas Mobile.
+- 💡 **Soft Skills:** Resolução de problemas complexos, pensamento analítico e metodologias ágeis (Scrum/Kanban).
+- 🚀 **Objetivo:** Projetar arquiteturas que suportem alto tráfego e escalar produtos digitais inovadores.
 
 ---
 
-<h3 align="center"> Minhas Ferramentas e Tecnologias </h3>
+## ⚙️ Técnologias
 
-<table align="center" width="80%">
-  <tr align="center">
-    <td valign="top" width="50%">
-      <strong>Front-End</strong><br><br>
+Aqui estão as tecnologias que utilizo para construir soluções de ponta a ponta:
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🌐 Front-End</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,javascript,html,css" />
+        <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css" alt="Front-End"/>
       </a>
     </td>
-    <td valign="top" width="50%">
-      <strong>Back-End</strong><br><br>
+    <td align="center" width="33%">
+      <h3>⚙️ Back-End</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,nodejs,flask,django,php,lua" />
+        <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,django,flask" alt="Back-End"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>📱 Mobile</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,apple,android" alt="Mobile"/>
       </a>
     </td>
   </tr>
-  <tr align="center">
-    <td valign="top" width="50%">
-      <strong>Bancos de Dados & Qualidade</strong><br><br>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🗄️ Dados & Infraestrutura</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,linux,docker" alt="Infra"/>
       </a>
-      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" alt="MariaDB"/>
-      <img src="https://img.shields.io/badge/PyTest-0A9D9D?style=flat&logo=pytest&logoColor=white" alt="PyTest"/>
     </td>
-    <td valign="top" width="50%">
-      <strong>Ferramentas e Metodologias</strong><br><br>
+    <td align="center" width="50%">
+      <h3>🌱 Atualmente Estudando</h3>
+      <p>Aprimorando o desenvolvimento mobile com linguagens nativas:</p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+        <img src="https://skillicons.dev/icons?i=kotlin,swift" alt="Estudando"/>
       </a>
-      <img src="https://img.shields.io/badge/Scrum-0077B5?style=flat&logo=Jira&logoColor=white" alt="Scrum"/>
-      <img src="https://img.shields.io/badge/Kanban-4D9AFF?style=flat&logo=Trello&logoColor=white" alt="Kanban"/>
     </td>
   </tr>
 </table>
 
 ---
 
+## 📈 Desempenho e Contribuições
+
 <div align="center">
-  <a href="https://github.com/seu-usuario-aqui">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorFelipe7&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFelipe7&layout=compact&langs_count=7&theme=transparent"/>
+  <a href="https://github.com/IgorFelipe7">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorFelipe7&show_icons=true&include_all_commits=true&count_private=true&bg_color=0f172a&title_color=00E5FF&text_color=94a3b8&icon_color=00E5FF&hide_border=true" alt="Estatísticas"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFelipe7&layout=compact&langs_count=6&bg_color=0f172a&title_color=00E5FF&text_color=94a3b8&hide_border=true" alt="Linguagens"/>
   </a>
 </div>
 
----
+<br>
 
 <div align="center">
-  <p><strong>Conecte-se comigo</strong></p>
-  <a href="https://www.linkedin.com/in/igorfdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:igorfdeveloper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2&width=100%"/>
+  <p><i>"Qualquer tolo consegue escrever código que um computador entenda. Bons programadores escrevem código que humanos possam entender." – Martin Fowler</i></p>
 </div>
