@@ -53,25 +53,19 @@ I am a Full-Stack Software Engineer focused on architecting and delivering robus
 
 > **Note for Recruiters:** These are real-world client systems built to handle actual business workflows, security standards, and performance demands.
 
-### 🔗 [Project Name / Production Case Study]
-*Replace this with a brief 1-sentence executive summary of your best freelance project.*
-- **Technical Stack:** Next.js, Node.js, PostgreSQL, Docker.
-- **Engineering Highlights:** Engineered a high-performance database schema, integrated secure external APIs/gateways, and optimized server-side rendering resulting in faster load times.
-- [👉 Live Application](https://...) | [🖥️ Code Repository](https://...)
-
-### 🔗 [Second Best Project Name]
-*Replace this with a brief 1-sentence executive summary of your second best system.*
-- **Technical Stack:** React Native, Laravel, MySQL.
-- **Engineering Highlights:** Implemented end-to-end authentication, robust state management, and real-time synchronization features.
-- [👉 Live Application](https://...) | [🖥️ Code Repository](https://...)
+### 🔗 Distância Zero | Event Fulfillment & Ticketing Engine
+*An end-to-end e-commerce and logistics platform built to handle high concurrency in sales and strict access control for large-scale events.*
+- **Technical Stack:** Next.js, TypeScript, Supabase (PostgreSQL), Tailwind CSS.
+- **Engineering Highlights:** Solved the "Ghost Cart Problem" using custom ACID-compliant PostgreSQL RPCs for atomic stock locking. Built a persistent digital passport with real-time WebSocket synchronization for the admin dashboard.
+- [🖥️ Code Repository](https://github.com/IgorFelipe7/event-fulfillment-engine)
 
 ---
 
 ## 📊 GitHub Metrics & Insights
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorFelipe7&show_icons=true&include_all_commits=true&count_private=true&bg_color=0f172a&title_color=00E5FF&text_color=94a3b8&icon_color=00E5FF&hide_border=true" alt="Igor's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFelipe7&layout=compact&langs_count=6&bg_color=0f172a&title_color=00E5FF&text_color=94a3b8&hide_border=true" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IgorFelipe7&show_icons=true&include_all_commits=true&bg_color=0f172a&title_color=00E5FF&text_color=94a3b8&icon_color=00E5FF&hide_border=true" alt="Estatísticas do Igor"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFelipe7&layout=compact&langs_count=6&bg_color=0f172a&title_color=00E5FF&text_color=94a3b8&hide_border=true" alt="Linguagens mais usadas"/>
 </div>
 
 <br>
