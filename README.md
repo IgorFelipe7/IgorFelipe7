@@ -1,76 +1,68 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&height=80&lines=Hi,+I'm+Igor+Felipe+👋;Full-Stack+Software+Engineer;Building+Scalable+Cloud+Solutions;Transforming+Business+Goals+into+Code" alt="Typing SVG" />
-  </a>
 
-  <p align="center">
-    <strong>Software Architecture • Clean Code & SOLID • Distributed Systems</strong>
-  </p>
+<img src="./assets/header.png" width="100%" alt="Igor Felipe, Full Stack Developer: complete web systems, from the interface to the database" />
 
-  <div align="center">
-    <a href="https://igorfdeveloper.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=rocket&logoColor=00E5FF" alt="Portfolio">
-    </a>
-    <a href="https://www.linkedin.com/in/igorfdev" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn">
-    </a>
-    <a href="mailto:igorfdeveloper@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Gmail">
-    </a>
-  </div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&height=56&lines=TypeScript+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js;PHP+%C2%B7+PostgreSQL+%C2%B7+Supabase;From+the+interface+to+the+database;Tested+before+it+ships" alt="TypeScript · React · Next.js · Node.js · PHP · PostgreSQL" />
+</a>
+
+<a href="https://igorfdeveloper.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=rocket&logoColor=00E5FF" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/igorfdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
+<a href="mailto:igorfdeveloper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email" /></a>
+
 </div>
 
-<br>
+<br />
 
-## 🚀 Professional Overview
+## `$ whoami`
 
-I am a Full-Stack Software Engineer focused on architecting and delivering robust, production-ready applications from database modeling to high-fidelity user interfaces. My core philosophy relies on writing clean, testable, and highly maintainable code that drives measurable business value and solves real-world engineering problems.
+I build complete web applications: interface, API, database, business rules and tests. Most of what I ship is real client work, so I care about the parts nobody sees: concurrency handled in the database, row-level security, accessibility and automated tests.
 
-- 🏗️ **Core Expertise:** Building scalable web architectures, production-grade RESTful APIs, and responsive mobile ecosystems.
-- ⚡ **Performance Mindset:** Optimizing database queries, managing caching layers, and refining CI/CD pipelines.
-- 🎯 **Business-Driven:** Bridging the gap between technical execution and business requirements using agile methodologies.
+- 🛠️ **Freelance full stack developer** since March 2026, based in Campinas, SP (Brazil)
+- 🧪 **Tests before launch:** Vitest, Playwright and pgTAP. My last client project shipped with 121 passing tests
+- 📱 **Built for the cheapest phone**, not just my own machine: performance budgets, WebGL fallbacks and reduced-motion support
+- 💡 **Self-taught**, writing code since I was 7
+- 🎯 **Open to junior and internship roles**: on-site, hybrid or remote
 
----
+<br />
 
-## 🛠️ Tech Stack & Ecosystem
+## `$ ls ./featured-work`
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,html,css,nodejs,php,laravel,python,django,docker,postgres,mysql,linux,git,github" alt="My Skills" />
-  </a>
+> Most of my client work lives in private repositories. I'm happy to walk through the code in an interview.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://www.euqueroadh.com"><img src="./assets/eventos.png" alt="Event registration platform: 121 automated tests before launch" /></a></td>
+    <td width="50%"><a href="https://sistemakalibra.com"><img src="./assets/kalibra.png" alt="Kalibra: ERP + LIMS for metrology labs, about 26,500 lines of PHP" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/IgorFelipe7/event-fulfillment-engine"><img src="./assets/distancia-zero.png" alt="Distância Zero: ticketing and check-in engine with atomic stock locking" /></a></td>
+    <td width="50%"><a href="https://gordao.vercel.app"><img src="./assets/gordao.png" alt="Gordão: landing page with 9 burger layers animated on scroll" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/tecnolux.png" alt="Tecnolux: procedural 3D electrical panel in Three.js" /></td>
+    <td width="50%"><img src="./assets/libres.png" alt="Libres: Brazilian Sign Language recognition, 89.8% cross-validated accuracy" /></td>
+  </tr>
+</table>
+
+<br />
+
+## `$ cat stack.txt`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,php,postgres,mysql,supabase,prisma,tailwind,threejs,python,flutter,vitest,playwright,vercel,git&perline=9" alt="TypeScript, JavaScript, React, Next.js, Node.js, PHP, PostgreSQL, MySQL, Supabase, Prisma, Tailwind CSS, Three.js, Python, Flutter, Vitest, Playwright, Vercel, Git" />
 </p>
 
-### 🎯 Specialization Breakdown
+| | |
+| :--- | :--- |
+| **Front-end** | React, Next.js, TypeScript, Tailwind CSS, GSAP, Framer Motion, Three.js |
+| **Back-end** | Node.js, PHP 8, REST APIs, WebSockets, Prisma |
+| **Data** | PostgreSQL, Supabase (RLS, RPCs), MySQL / MariaDB |
+| **Testing** | Vitest, Playwright, pgTAP, axe-core |
+| **Mobile & ML** | React Native, Flutter, MediaPipe, TensorFlow Lite |
 
-- **Frontend & Mobile:** React, Next.js, React Native, Tailwind CSS, TypeScript.
-- **Backend & APIs:** Node.js, PHP (Laravel), Python (Django/Flask), RESTful architectures.
-- **Database & DevOps:** PostgreSQL, MySQL, Docker Containerization, CI/CD pipelines, Linux Server Management.
-- **Currently Deepening:** Native Mobile Engineering (Swift & Kotlin).
-
----
-
-## 💼 Featured Production Projects
-
-> **Note for Recruiters:** These are real-world client systems built to handle actual business workflows, security standards, and performance demands.
-
-### 🔗 Distância Zero | Event Fulfillment & Ticketing Engine
-*An end-to-end e-commerce and logistics platform built to handle high concurrency in sales and strict access control for large-scale events.*
-- **Technical Stack:** Next.js, TypeScript, Supabase (PostgreSQL), Tailwind CSS.
-- **Engineering Highlights:** Solved the "Ghost Cart Problem" using custom ACID-compliant PostgreSQL RPCs for atomic stock locking. Built a persistent digital passport with real-time WebSocket synchronization for the admin dashboard.
-- [🖥️ Code Repository](https://github.com/IgorFelipe7/event-fulfillment-engine)
-
----
-
-## 📊 GitHub Metrics & Insights
+<br />
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IgorFelipe7&show_icons=true&include_all_commits=true&bg_color=0f172a&title_color=00E5FF&text_color=94a3b8&icon_color=00E5FF&hide_border=true" alt="Estatísticas do Igor"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFelipe7&layout=compact&langs_count=6&bg_color=0f172a&title_color=00E5FF&text_color=94a3b8&hide_border=true" alt="Linguagens mais usadas"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2&width=100%"/>
-  <p><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</i></p>
+  <sub>Looking for someone who ships the whole system working? <a href="https://www.linkedin.com/in/igorfdev">Let's talk on LinkedIn</a>.</sub>
 </div>
