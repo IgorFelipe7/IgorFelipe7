@@ -50,10 +50,10 @@ I build complete web applications: interface, API, database, business rules and 
 ## `$ cat stack.txt`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,php,postgres,mysql,supabase,prisma,tailwind,threejs,python,flutter,vitest,playwright,vercel,git&perline=9" alt="TypeScript, JavaScript, React, Next.js, Node.js, PHP, PostgreSQL, MySQL, Supabase, Prisma, Tailwind CSS, Three.js, Python, Flutter, Vitest, Playwright, Vercel, Git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,php,postgres,mysql,supabase,prisma,tailwind,threejs,python,flutter,vitest,vercel,git,github&perline=9" alt="TypeScript, JavaScript, React, Next.js, Node.js, PHP, PostgreSQL, MySQL, Supabase, Prisma, Tailwind CSS, Three.js, Python, Flutter, Vitest, Vercel, Git, GitHub" />
 </p>
 
-| | |
+| Area | Tools |
 | :--- | :--- |
 | **Front-end** | React, Next.js, TypeScript, Tailwind CSS, GSAP, Framer Motion, Three.js |
 | **Back-end** | Node.js, PHP 8, REST APIs, WebSockets, Prisma |
