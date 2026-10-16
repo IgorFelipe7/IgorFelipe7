@@ -19,7 +19,7 @@
 I build complete web applications: interface, API, database, business rules and tests. Most of what I ship is real client work, so I care about the parts nobody sees: concurrency handled in the database, row-level security, accessibility and automated tests.
 
 - 🛠️ **Freelance full stack developer** since March 2026, based in Campinas, SP (Brazil)
-- 🧪 **Tests before launch:** Vitest, Playwright and pgTAP. My last client project shipped with 121 passing tests
+- 🧪 **Automated testing:** Vitest, Playwright and pgTAP for domain rules, interface flows, database permissions and concurrency
 - 📱 **Built for the cheapest phone**, not just my own machine: performance budgets, WebGL fallbacks and reduced-motion support
 - 💡 **Self-taught**, writing code since I was 7
 - 🎯 **Open to junior and internship roles**: on-site, hybrid or remote
@@ -28,24 +28,24 @@ I build complete web applications: interface, API, database, business rules and 
 
 ## `$ ls ./featured-work`
 
-> Most of my client work lives in private repositories. I'm happy to walk through the code in an interview.
+> Public repositories provide runnable examples and documentation. For private client work, I can discuss architecture and my contribution without sharing confidential data.
 
-<table>
-  <tr>
-    <td width="50%"><a href="https://www.euqueroadh.com"><img src="./assets/eventos.png" alt="Event registration platform: 121 automated tests before launch" /></a></td>
-    <td width="50%"><a href="https://sistemakalibra.com"><img src="./assets/kalibra.png" alt="Kalibra: ERP + LIMS for metrology labs, about 26,500 lines of PHP" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://github.com/IgorFelipe7/event-fulfillment-engine"><img src="./assets/distancia-zero.png" alt="Distância Zero: ticketing and check-in engine with atomic stock locking" /></a></td>
-    <td width="50%"><a href="https://gordao.vercel.app"><img src="./assets/gordao.png" alt="Gordão: landing page with 9 burger layers animated on scroll" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/tecnolux.png" alt="Tecnolux: procedural 3D electrical panel in Three.js" /></td>
-    <td width="50%"><img src="./assets/libres.png" alt="Libres: Brazilian Sign Language recognition, 89.8% cross-validated accuracy" /></td>
-  </tr>
-</table>
+| Project | Engineering focus | Evidence |
+| :--- | :--- | :--- |
+| **Event registration platform** | Atomic capacity control in PostgreSQL, waitlist, RLS, check-in and certificates. Tests cover domain rules, database invariants, concurrency and interface flows. | [Source and architecture](https://github.com/IgorFelipe7/euqueroadh) · [Isolated demo](https://euqueroadh-demo.vercel.app) |
+| **Kalibra — ERP + LIMS** | PHP 8/MVC/MariaDB, metrology calculations, PDF certificates and offline React Native/SQLite integration. Technical references do not imply software accreditation. | [Application](https://sistemakalibra.com) · Case overview on [LinkedIn](https://www.linkedin.com/in/igorfdev) |
+| **Distância Zero** | Ticketing, admission and logistics workflows. | [Repository](https://github.com/IgorFelipe7/event-fulfillment-engine) |
+| **Gordão** | Next.js and GSAP scroll experience with nine layers, reduced-motion support and an ordering flow shaped by delivery dates and production rules. | [Live website](https://gordao.vercel.app) |
+| **Tecnolux** | Proposal, UX/UI and front-end with a procedural Three.js panel, simpler representations and static alternatives. Pre-launch project. | Case overview on [LinkedIn](https://www.linkedin.com/in/igorfdev) |
+| **Libres — team capstone** | Prototype recognizing eight isolated Brazilian Sign Language signs. I work on ML, backend, architecture and app integration in collaboration with the team. Experimental evaluation; not unrestricted conversation translation. | Project overview on [LinkedIn](https://www.linkedin.com/in/igorfdev) |
 
 <br />
+
+## Open source
+
+[**BrasilAPI — PR #925**](https://github.com/BrasilAPI/BrasilAPI/pull/925): proposed an IBGE-specific HTTP client that completes a TLS certificate chain while keeping certificate validation enabled, with focused tests and health-check changes.
+
+**Status checked on 16 October 2026: open, not merged.** The discussion reports that IBGE repaired the server certificate chain. The proposal remains subject to the maintainers' decision; I do not attribute the service's recovery to this PR.
 
 ## `$ cat stack.txt`
 
@@ -64,5 +64,5 @@ I build complete web applications: interface, API, database, business rules and 
 <br />
 
 <div align="center">
-  <sub>Looking for someone who ships the whole system working? <a href="https://www.linkedin.com/in/igorfdev">Let's talk on LinkedIn</a>.</sub>
+  <sub>Interested in my projects or a junior/internship opportunity? <a href="https://www.linkedin.com/in/igorfdev">Let's talk on LinkedIn</a>.</sub>
 </div>
