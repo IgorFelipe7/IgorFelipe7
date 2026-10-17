@@ -16,11 +16,13 @@
 
 ## `$ whoami`
 
-I build complete web applications: interface, API, database, business rules and tests. Most of what I ship is real client work, so I care about the parts nobody sees: concurrency handled in the database, row-level security, accessibility and automated tests.
+I'm Igor, a Full Stack Developer based in Brazil. I build web systems and websites, from the interface to the database.
+
+One of my recent projects handled registrations, a waitlist and check-in at an event in Hortolândia. Working on it meant thinking through what happens when two people request the last place, how organizers access participant data and how those rules can be tested. Those are the kinds of problems I enjoy working on.
 
 - 🛠️ **Freelance full stack developer** since March 2026, based in Campinas, SP (Brazil)
 - 🧪 **Automated testing:** Vitest, Playwright and pgTAP for domain rules, interface flows, database permissions and concurrency
-- 📱 **Built for the cheapest phone**, not just my own machine: performance budgets, WebGL fallbacks and reduced-motion support
+- 📱 **Designed for different devices:** responsive interfaces, WebGL fallbacks and reduced-motion support
 - 💡 **Self-taught**, writing code since I was 7
 - 🎯 **Open to junior and internship roles**: on-site, hybrid or remote
 
@@ -28,16 +30,16 @@ I build complete web applications: interface, API, database, business rules and 
 
 ## `$ ls ./featured-work`
 
-> Public repositories provide runnable examples and documentation. For private client work, I can discuss architecture and my contribution without sharing confidential data.
+Start with the event platform to explore the source code, tests and demo. The other projects show my work with business systems, interactive interfaces, offline workflows and machine learning.
 
 | Project | Engineering focus | Evidence |
 | :--- | :--- | :--- |
 | **Event registration platform** | Atomic capacity control in PostgreSQL, waitlist, RLS, check-in and certificates. Tests cover domain rules, database invariants, concurrency and interface flows. | [Source and architecture](https://github.com/IgorFelipe7/euqueroadh) · [Isolated demo](https://euqueroadh-demo.vercel.app) |
-| **Kalibra — ERP + LIMS** | PHP 8/MVC/MariaDB, metrology calculations, PDF certificates and offline React Native/SQLite integration. Technical references do not imply software accreditation. | [Application](https://sistemakalibra.com) · Case overview on [LinkedIn](https://www.linkedin.com/in/igorfdev) |
+| **Kalibra — ERP + LIMS** | PHP 8/MVC/MariaDB, metrology calculations, PDF certificates and offline React Native/SQLite integration. | [Application](https://sistemakalibra.com) · Case overview on [LinkedIn](https://www.linkedin.com/in/igorfdev) |
 | **Distância Zero** | Ticketing, admission and logistics workflows. | [Repository](https://github.com/IgorFelipe7/event-fulfillment-engine) |
 | **Gordão** | Next.js and GSAP scroll experience with nine layers, reduced-motion support and an ordering flow shaped by delivery dates and production rules. | [Live website](https://gordao.vercel.app) |
 | **Tecnolux** | Proposal, UX/UI and front-end with a procedural Three.js panel, simpler representations and static alternatives. Pre-launch project. | Case overview on [LinkedIn](https://www.linkedin.com/in/igorfdev) |
-| **Libres — team capstone** | Prototype recognizing eight isolated Brazilian Sign Language signs. I work on ML, backend, architecture and app integration in collaboration with the team. Experimental evaluation; not unrestricted conversation translation. | Project overview on [LinkedIn](https://www.linkedin.com/in/igorfdev) |
+| **Libres — team capstone** | Prototype recognizing eight isolated Brazilian Sign Language signs. I work on ML, backend, architecture and app integration in collaboration with the team. The prototype focuses on this eight-sign vocabulary. | Project overview on [LinkedIn](https://www.linkedin.com/in/igorfdev) |
 
 <br />
 
@@ -45,7 +47,7 @@ I build complete web applications: interface, API, database, business rules and 
 
 [**BrasilAPI — PR #925**](https://github.com/BrasilAPI/BrasilAPI/pull/925): proposed an IBGE-specific HTTP client that completes a TLS certificate chain while keeping certificate validation enabled, with focused tests and health-check changes.
 
-**Status checked on 16 October 2026: open, not merged.** The discussion reports that IBGE repaired the server certificate chain. The proposal remains subject to the maintainers' decision; I do not attribute the service's recovery to this PR.
+**Open for review as of 17 October 2026.** The discussion also records a server-side certificate-chain fix by IBGE. The PR documents my proposed client-side approach, tests and the technical investigation.
 
 ## `$ cat stack.txt`
 
